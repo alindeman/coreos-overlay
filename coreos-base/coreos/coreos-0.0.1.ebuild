@@ -154,4 +154,5 @@ RDEPEND="${RDEPEND}
 	net-fs/nfs-utils
 	net-misc/iputils
 	dev-vcs/git
+	sys-block/open-iscsi
 	"
